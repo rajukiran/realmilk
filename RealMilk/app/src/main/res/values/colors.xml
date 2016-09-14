@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#81D4FA</color>
+    <color name="colorPrimaryDark">#81D4FA</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="windowBackground">#313131</color>
+
+</resources>
